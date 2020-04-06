@@ -1,7 +1,7 @@
 
 Java Programming Masterclass for Software Developers - Tim Buchalka
 
-Coding Exercise 18: Shared Digit
+Coding Exercise 18: Even Digit Sum
 
 Write a method named getEvenDigitSum with one parameter of type int called number.
 The method should return the sum of the even digits within the number.
