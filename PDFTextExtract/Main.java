@@ -1,7 +1,7 @@
 package Udemy_Course;
 
 /*
-Version: 1.0
+Version: 1.1
 Program to read a pdf and extract text with regular expression as a csv file.
 pdfbox-app-2.0.19.jar   https://pdfbox.apache.org/download.cgi#20x
 
@@ -9,6 +9,7 @@ pdfbox-app-2.0.19.jar   https://pdfbox.apache.org/download.cgi#20x
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
+
 import java.io.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
